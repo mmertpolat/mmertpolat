@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at Bahcesehir University. My department is Computer Education and Instructional Technologies / MAJOR and Software Engineering / MINOR. I love to learn new things, hardworking and is very keen on technology.
+I am a student at Bahcesehir University. My departments are Software Engineering and Computer Education and Instructional Technologies. I love to learn new things, hardworking and is very keen on technology.
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmertpolat&show_icons=true)
 
