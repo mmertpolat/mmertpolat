@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmertpolat&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
+
 I am a student at Bahcesehir University. My departments are Software Engineering and Computer Education and Instructional Technologies. I love to learn new things, hardworking and is very keen on technology.
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmertpolat&show_icons=true)
